@@ -11,6 +11,10 @@ CuddlesAI is an AI tool that enables users to generate NFTs based on provided de
 - Frontend developed using Next.js.
 - Backend smart contract developed in Solidity using the Hardhat framework.
 
+## Open the provided URL in your web browser to access the CuddlesAI application:
+
+<https://cuddlesai.netlify.app/>
+
 ## Installation
 
 1. Clone the repository:
